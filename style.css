@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+#apps{
+    background-color: aquamarine;
+}
+#games{
+    background-color: aqua;
+}
+#chatbot{
+    background-color: antiquewhite;
+}
+img:hover{
+    transform: scale(0.9)
+}
